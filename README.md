@@ -1,13 +1,13 @@
 <h1 align="center">Olá 👋, Eu sou o Gabriel Domingos</h1>
 
 <p align="center">
-💻 Desenvolvedor Fullstack <br>
+💻 Desenvolvedor Web <br>
 ⚛️ React • TypeScript • Angular <br>
 🎯 Focado em aplicações escaláveis, UI/UX e arquitetura de frontend
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=26&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Fullstack+Developer;React+%7C+Angular+%7C+TypeScript;Building+Scalable+Web+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=26&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Desenvolvedor+Web;React+%7C+Angular+%7C+TypeScript;Desenvolvendo+Aplicações+Web+Escaláveis" />
 </p>
 
 ---
