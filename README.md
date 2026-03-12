@@ -58,8 +58,8 @@
 
 ## 📫 Contato
 
-- 💼 LinkedIn:  linkedin.com/in/gabrieldomingoss
-- 📧 Email:  gdomingoss11@gmail.com
+💼 LinkedIn:  www.linkedin.com/in/gabrieldomingoss
+📧 Email:  gdomingoss11@gmail.com
 
 ---
 
