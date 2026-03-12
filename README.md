@@ -1,12 +1,18 @@
-# 👋 Olá, eu sou o Gabriel Domingos
+<h1 align="center">Olá 👋, Eu sou o Gabriel Domingos</h1>
 
-💻 Desenvolvedor Fullstack  
-⚛️ Especializado em React, TypeScript e Angular  
-🎯 Foco em aplicações escaláveis, UI/UX e arquitetura de frontend  
+<p align="center">
+💻 Desenvolvedor Fullstack <br>
+⚛️ Especializado em React, TypeScript e Angular <br>
+🎯 Foco em aplicações escaláveis, UI/UX e arquitetura de frontend
+</p>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Fullstack+Developer;React+%7C+Angular+%7C+TypeScript;Building+Scalable+Web+Applications" />
+</p>
 
 ---
 
-## 🚀 Tecnologias
+# 🚀 Tecnologias
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
@@ -35,32 +41,45 @@
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielDomingoss&show_icons=true&theme=tokyonight)
-
----
-
-## 🔥 Linguagens mais usadas
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDomingoss&layout=compact&theme=tokyonight)
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=GabrielDomingoss&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
-## 💼 Projetos em destaque
+# 🔥 Linguagens mais usadas
 
-- 🚀 **CodeHeroApp** – Biblioteca de heróis  
-- 📊 **CityWeather** – Sistema de temperatura em determinadas cidades
-- 📷 **Wenlock** – Sistema de Cadastro de usuários
-- 📷 **Sanguessuga** – Sistema desenvolvido em equipe para doação de sangue com gamificação
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDomingoss&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 📫 Contato
+# 💼 Projetos em destaque
 
-💼 LinkedIn:  www.linkedin.com/in/gabrieldomingoss
+🦸 **CodeHeroApp**  
+Biblioteca interativa de heróis desenvolvida para explorar conceitos de frontend e consumo de APIs  
 
-📧 Email:  gdomingoss11@gmail.com
+🌤 **CityWeather**  
+Aplicação que consulta e exibe temperatura e condições climáticas de diferentes cidades  
+
+👥 **Wenlock**  
+Sistema de gerenciamento e cadastro de usuários com interface administrativa  
+
+🩸 **Sanguessuga**  
+Plataforma gamificada para incentivar doação de sangue, desenvolvida em equipe  
+
+---
+
+# 📫 Contato
+
+💼 LinkedIn  
+https://www.linkedin.com/in/gabrieldomingoss  
+
+📧 Email  
+gdomingoss11@gmail.com  
 
 ---
 
