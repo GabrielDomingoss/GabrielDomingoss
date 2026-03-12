@@ -5,9 +5,6 @@
 🎯 Foco em aplicações escaláveis, UI/UX e arquitetura de frontend  
 
 ---
-
-## 🚀 Tecnologias
-
 ## 🚀 Tecnologias
 
 ### Frontend
