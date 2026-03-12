@@ -49,10 +49,10 @@
 
 ## 💼 Projetos em destaque
 
-- 🚀 **Wenlock** – Sistema de gerenciamento de usuários  
-- 📊 **Dashboard Admin** – Painel administrativo em React + Material UI  
-- 💬 **MyChatApp** – Aplicação de chat com Socket.io  
-- 📷 **InstaRocket** – Clone do Instagram com Node.js e React
+- 🚀 **CodeHeroApp** – Biblioteca de heróis  
+- 📊 **CityWeather** – Sistema de temperatura em determinadas cidades
+- 📷 **Wenlock** – Sistema de Cadastro de usuários
+- 📷 **Sanguessuga** – Sistema desenvolvido em equipe para doação de sangue com gamificação
 
 ---
 
