@@ -89,6 +89,5 @@ gdomingoss11@gmail.com
 
 ⭐ Sempre buscando evoluir como engenheiro de software e criar produtos de alta qualidade.
 
-## 🐍 Contribution Snake
 
 ![snake](https://raw.githubusercontent.com/GabrielDomingoss/GabrielDomingoss/output/github-contribution-grid-snake.svg)
