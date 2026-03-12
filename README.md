@@ -2,12 +2,12 @@
 
 <p align="center">
 💻 Desenvolvedor Fullstack <br>
-⚛️ Especializado em React, TypeScript e Angular <br>
-🎯 Foco em aplicações escaláveis, UI/UX e arquitetura de frontend
+⚛️ React • TypeScript • Angular <br>
+🎯 Focado em aplicações escaláveis, UI/UX e arquitetura de frontend
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Fullstack+Developer;React+%7C+Angular+%7C+TypeScript;Building+Scalable+Web+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=26&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=650&lines=Fullstack+Developer;React+%7C+Angular+%7C+TypeScript;Building+Scalable+Web+Applications" />
 </p>
 
 ---
@@ -44,15 +44,19 @@
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=GabrielDomingoss&show_icons=true&theme=tokyonight" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=GabrielDomingoss&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDomingoss&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-# 🔥 Linguagens mais usadas
+# 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielDomingoss&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=GabrielDomingoss&theme=tokyonight"/>
 </p>
 
 ---
