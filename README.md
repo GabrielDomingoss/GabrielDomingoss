@@ -3,7 +3,7 @@
 <p align="center">
 💻 Desenvolvedor Web <br>
 ⚛️ React • TypeScript • Angular <br>
-🎯 Focado em aplicações escaláveis, UI/UX e arquitetura de frontend
+🎯 Focado em aplicações escaláveis, UI/UX e desenvolvimento de soluções frontend
 </p>
 
 <p align="center">
